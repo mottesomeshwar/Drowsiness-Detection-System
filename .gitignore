@@ -1,0 +1,4 @@
+sunny/
+models/*.dat
+__pycache__/
+*.pyc
